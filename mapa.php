@@ -5,7 +5,7 @@
  * @author            Noelia Navas Garrido
  * @copyright         2023 Noelia Navas Garrido
  * @license           GPL-2.0-or-later
- * @link              https://github.com/NoeliaNavas/miplugin.git
+ * @link              https://github.com/NoeliaNavas/mapa.git
  * @author            NoeliaNavas
  *
  * @wordpress-plugin
