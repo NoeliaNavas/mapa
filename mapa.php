@@ -6,7 +6,7 @@
  * @copyright         2023 Noelia Navas Garrido
  * @license           GPL-2.0-or-later
  * @link              https://github.com/NoeliaNavas/mapa.git
- * @author            NoeliaNavas
+ * @author            Noelia Navas
  *
  * @wordpress-plugin
  * Plugin Name:       Mapa Europa
@@ -26,7 +26,7 @@
 function map_shortcode($atts) {
     // Generate output
     $output = '<div class="map-shortcode">';
-    $output .= '<div id="europe-map" style="width: 600px; height: 400px;"></div>';
+    $output .= '<div id="europe-map" style="width: 1100px; height: 400px;"></div>';
     $output .= '</div>';
 
     // Enqueue Leaflet library and custom JavaScript
